@@ -1,0 +1,41 @@
+[
+  { "id": 1, "fname": "John", "lname": "Doe", "age": 25, "city": "New York" },
+  {
+    "id": 2,
+    "fname": "kholoud",
+    "lname": "khaled",
+    "age": 19,
+    "city": "eygpt"
+  },
+  {
+    "id": 3,
+    "fname": "mustafa",
+    "lname": "mahmoud",
+    "age": 20,
+    "city": "eygpt"
+  },
+  { "id": 4, "fname": "Emily", "lname": "Davis", "age": 35, "city": "Houston" },
+  { "id": 5, "fname": "Chris", "lname": "Brown", "age": 28, "city": "Phoenix" },
+  {
+    "id": 6,
+    "fname": "Sarah",
+    "lname": "Miller",
+    "age": 32,
+    "city": "Philadelphia"
+  },
+  {
+    "id": 7,
+    "fname": "David",
+    "lname": "Wilson",
+    "age": 45,
+    "city": "San Antonio"
+  },
+  {
+    "id": 8,
+    "fname": "Laura",
+    "lname": "Moore",
+    "age": 29,
+    "city": "San Diego"
+  },
+  { "id": 9, "fname": "James", "lname": "Taylor", "age": 50, "city": "Dallas" }
+]
